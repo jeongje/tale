@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Introducing Tale"
+title:  "Introducing"
 author: "Chester"
+description: "test"
 comments: true
 ---
 

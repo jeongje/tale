@@ -1,5 +1,5 @@
 # Site settings
-title:          Tale
+title:          Home
 description:    "Minimal Jekyll theme for storytellers"
 baseurl:        ""
 url:            "https://jeongje.github.io/"
@@ -9,9 +9,7 @@ google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Jeongje
 
 # Build settings
 markdown:       kramdown
