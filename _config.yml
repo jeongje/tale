@@ -1,6 +1,6 @@
 # Site settings
 title:          Home
-description:    "Minimal Jekyll theme for storytellers"
+description:    "Jeongje's blog"
 baseurl:        ""
 url:            "https://jeongje.github.io/"
 
@@ -9,7 +9,7 @@ google_analytics: UA-119278226-2
 
 # Author
 author:
-  name:         Jeongje
+  name:         JJ
 
 # Build settings
 markdown:       kramdown
