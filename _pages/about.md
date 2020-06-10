@@ -5,9 +5,12 @@ author: "JJ"
 permalink: /about/
 ---
 
-B2B SaaS를 만드는 스타트업에 다니고 있습니다.
+B2B SaaS를 만드는 스타트업에 다니고 있습니다.  
+스타트업에서 커리어를 시작해 계속 스타트업에서 일하고 있습니다.
 
-![Imgur](https://i.imgur.com/4STA9fC.gifv)
-![Imgur](https://i.imgur.com/4STA9fC.gif)
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="400" height="400" />
-<img src="https://i.imgur.com/4STA9fC.gif" width="400" height="400" />
+세일즈, 고객지원, 사업개발, 웹 서비스 기획 등 다양한 분야를 경험했습니다.  
+현재는 사업 부분에서 더 많은 경험을 쌓고 있습니다.
+
+무언가를 효율적으로 만드는 것을 좋아합니다.
+
+알고 있는 것, 느낀 것을 공유하려 합니다.
