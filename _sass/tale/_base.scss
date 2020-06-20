@@ -61,6 +61,14 @@ img {
   max-width: 100%;
 }
 
-td {
-  vertical-align: top;
+
+.mbtablestyle {
+  border-collapse: collapse;
+  width: 100%;
+
+  >table,
+  td,
+  th {    
+    border: 1px solid black;
+  }
 }
