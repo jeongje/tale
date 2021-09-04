@@ -37,14 +37,14 @@ _쉬울 줄 알았다.._
 
 ## <a name="third"></a>3. 일이 커졌다
 
-설문지로 신청하는 방식은 담당자는 편해질 수 있지만, 신청자는 캘린더보다 불편했다. 어드민, 구성원 모두가 만족하는 성과관리 서비스 [Lemonbase](https://lemonbase.com/?utm_source=jjblog&utm_medium=referral&utm_campaign=leavingapp)을 만드는 일원으로서 용납할 수 없었다.
+설문지로 신청하는 방식은 담당자는 편해질 수 있지만, 신청자는 캘린더보다 불편했다. 어드민, 구성원 모두가 만족하는 성과관리 서비스 [Lemonbase](https://lemonbase.com/?utm_source=jjblog&utm_medium=referral&utm_campaign=leavingapp){:target="_blank"}을 만드는 일원으로서 용납할 수 없었다.
 
 
 <br/>
 
 ## <a name="fourth"></a>4. 제대로 만들어 보기로 했다
 
-[Google Webapp](https://developers.google.com/apps-script/guides/web)을 이용해 만들기로 했다. Google Sheet을 DB로 이용하며 프론트앤드를 구현해주는 기술이다. 이걸 선택한 이유는 아래와 같은 장점이 있기 때문이다. 성능이 떨어진다는 단점이 있지만 사내 프로그램이라 문제없을 것이라 생각했다.
+[Google Webapp](https://developers.google.com/apps-script/guides/web){:target="_blank"}을 이용해 만들기로 했다. Google Sheet을 DB로 이용하며 프론트앤드를 구현해주는 기술이다. 이걸 선택한 이유는 아래와 같은 장점이 있기 때문이다. 성능이 떨어진다는 단점이 있지만 사내 프로그램이라 문제없을 것이라 생각했다.
 
 1. 이전에 사용해봤음
 2. 서버가 필요 없음
@@ -119,6 +119,4 @@ _팀 이동 제안을 받았다._
 
 <br/>
 
-<iframe width="420" height="315" src="https://i.imgur.com/W132WPq" frameborder="0" allowfullscreen></iframe>
-
-[Imgur](https://imgur.com/W132WPq)
+<iframe width="420" height="315" src="https://youtu.be/UU1j8Zv92tA" frameborder="0" allowfullscreen></iframe>

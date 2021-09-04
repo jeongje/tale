@@ -9,7 +9,7 @@ author: "JJ"
 <br/>
 
 # 유용한 단축키 10개
-전체 단축키 목록을 보고 싶은 경우 [구글 고객센터 문서](https://support.google.com/docs/answer/181110?co=GENIE.Platform%3DDesktop&hl=ko&oco=1) 확인  
+전체 단축키 목록을 보고 싶은 경우 [구글 고객센터 문서](https://support.google.com/docs/answer/181110?co=GENIE.Platform%3DDesktop&hl=ko&oco=1){:target="_blank"} 확인  
 
 [1. 실행취소 / 재실행](#first)  
 [2. 값 있는 셀까지 이동 / 선택](#second)  
