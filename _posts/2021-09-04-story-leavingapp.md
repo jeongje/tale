@@ -29,7 +29,7 @@ author: "JJ"
 
 <br/>
 
-<img src="https://i.imgur.com/lEfE6l9.png" style="max-height: 300px; width:auto;">
+<img src="https://i.imgur.com/lEfE6l9.png" style="max-height: 400px; width:auto;">
 _쉬울 줄 알았다.._
 
 
@@ -64,7 +64,7 @@ _쉬울 줄 알았다.._
 
 <br/>
 
-<img src="https://i.imgur.com/1A6Ld3X.png" style="max-height: 400px; width:auto;">
+<img src="https://i.imgur.com/1A6Ld3X.png" style="max-height: 500px; width:auto;">
 _사용자를 배려한 기획서_
 
 
@@ -76,7 +76,7 @@ _사용자를 배려한 기획서_
 
 <br/>
 
-<img src="https://i.imgur.com/KDgmwPo.png" style="max-height: 400px; width:auto;">
+<img src="https://i.imgur.com/KDgmwPo.png" style="max-height: 500px; width:auto;">
 _해결했지만 왜 됐는지 모른다._
 
 
@@ -90,7 +90,7 @@ _해결했지만 왜 됐는지 모른다._
 
 <br/>
 
-<img src="https://imgur.com/yxm9OkY.png" style="max-height: 300px; width:auto;">
+<img src="https://imgur.com/yxm9OkY.png" style="max-height: 400px; width:auto;">
 _Jamie 고맙습니다._
 
 
@@ -103,7 +103,7 @@ _Jamie 고맙습니다._
 
 <br/>
 
-<img src="https://imgur.com/VQDhUhJ.png" style="max-height: 150px; width:auto;">
+<img src="https://imgur.com/VQDhUhJ.png" style="max-height: 200px; width:auto;">
 _팀 이동 제안을 받았다._
 
 
@@ -119,4 +119,6 @@ _팀 이동 제안을 받았다._
 
 <br/>
 
-<iframe width="420" height="315" src="https://i.imgur.com/W132WPq.mp4" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://i.imgur.com/W132WPq" frameborder="0" allowfullscreen></iframe>
+
+[Imgur](https://imgur.com/W132WPq)
