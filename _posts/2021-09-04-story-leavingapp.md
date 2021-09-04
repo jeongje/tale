@@ -119,4 +119,5 @@ _팀 이동 제안을 받았다._
 
 <br/>
 
-<iframe width="420" height="315" src="https://youtu.be/UU1j8Zv92tA" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://youtu.be/emed/UU1j8Zv92tA" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://imgur.com/emed/W132WPq" frameborder="0" allowfullscreen></iframe>
