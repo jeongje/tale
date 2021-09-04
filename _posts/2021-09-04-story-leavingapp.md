@@ -119,5 +119,4 @@ _팀 이동 제안을 받았다._
 
 <br/>
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/UU1j8Zv92tA" frameborder="0" allowfullscreen></iframe>
-<iframe width="420" height="315" src="https://imgur.com/embed/W132WPq" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ETS6k5kMdo8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
