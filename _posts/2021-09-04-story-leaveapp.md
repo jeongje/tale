@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "비개발자의 사내 휴가 앱 개발기"
+title: "비개발자가 사내 휴가 앱을 만들어봤습니다"
 author: "JJ"
 ---
 
