@@ -230,3 +230,9 @@ _글자 양식 편집 및 정렬_
 | 오른쪽 맞춤 | Ctrl + Shift + r | ⌘ + Shift + r |
 {:.mbtablestyle}
 
+<br/>
+
+**같이 읽으면 좋은 글**
+
+[구글 스프레드 시트 - 협업 시 알아야 하는 기능 4개](https://jeongje.github.io/2020-08-02/googlesheet-cowork){:target="_blank"}
+

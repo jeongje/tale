@@ -77,3 +77,9 @@ author: "JJ"
 <img src="https://i.imgur.com/53Lomw8.png" style="max-height: 400px; width:auto;">
 <img src="https://i.imgur.com/3ZJZwkq.png" style="max-height: 400px; width:auto;">
 <img src="https://i.imgur.com/U8hgaT4.png" style="max-height: 400px; width:auto;">
+
+<br/>
+
+**같이 읽으면 좋은 글**
+
+[구글 스프레드 시트 - 유용한 단축키 10개](https://jeongje.github.io/2020-06-20/googlesheet-shortcut){:target="_blank"}
