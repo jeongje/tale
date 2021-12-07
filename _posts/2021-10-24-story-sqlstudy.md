@@ -31,8 +31,8 @@ _제목으로 어그로를 끌었다._
 
 <br/>
 
-<img src="https://i.imgur.com/St3wWFX.png" style="max-height: 400px; width:auto;">
-_다양한 목표를 가지고 수강한 동료들_
+<img src="https://i.imgur.com/Rb8Y0le.png" style="max-height: 400px; width:auto;">
+_수준 파악하며 같이 물어본 질문_
 
 
 <br/>
@@ -63,7 +63,7 @@ _다양한 목표를 가지고 수강한 동료들_
 
 <br/>
 
-<img src="https://i.imgur.com/Mlmisdr.png" style="max-height: 500px; width:auto;">
+<img src="https://i.imgur.com/sl1jION.png" style="max-height: 500px; width:auto;">
 _1타 강사가 됐다._
 
 
