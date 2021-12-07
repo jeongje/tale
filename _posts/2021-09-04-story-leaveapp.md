@@ -127,5 +127,4 @@ _팀 이동 제안을 받았다._
 
 **같이 읽으면 좋은 글**
 
-[비개발자가 사내 SQL스터디를 진행해봤습니다](https://jeongje.github.io/2021-10-24/story-sqlstudy)
-{:target="_blank"}
+[비개발자가 사내 SQL스터디를 진행해봤습니다](https://jeongje.github.io/2021-10-24/story-sqlstudy){:target="_blank"}
