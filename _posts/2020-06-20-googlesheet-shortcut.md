@@ -116,12 +116,12 @@ _연락처 열 추가_
 
 |  | Window | Mac |
 |:-------:|:--------:|:------:|
-| 위에 행 추가 | Alt + i 누른 뒤 r + r | Ctrl + Option + i 누른 뒤 r + r | 
-| 아래 행 추가 | Alt + i 누른 뒤 r + b | Ctrl + Option + i 누른 뒤 r + b | 
-| 왼쪽 열 추가 | Alt + i 누른 뒤 c + c | Ctrl + Option + i 누른 뒤 c + c | 
-| 오른쪽 열 추가 | Alt + i 누른 뒤 c + o | Ctrl + Option + i 누른 뒤 c + o | 
-| 행 삭제 | Alt + e 누른 뒤 d + d | Ctrl + Option + e 누른 뒤 d + d | 
-| 열 삭제 | Alt + e 누른 뒤 d + e | Ctrl + Option + e 누른 뒤 d + e |
+| 위에 행 추가 | Alt + i 누른 뒤 r | Ctrl + Option + i 누른 뒤 r | 
+| 아래 행 추가 | Alt + i 누른 뒤 w | Ctrl + Option + i 누른 뒤 b | 
+| 왼쪽 열 추가 | Alt + i 누른 뒤 c | Ctrl + Option + i 누른 뒤 c | 
+| 오른쪽 열 추가 | Alt + i 누른 뒤 o | Ctrl + Option + i 누른 뒤 o | 
+| 행 삭제 | Alt + e 누른 뒤 d | Ctrl + Option + e 누른 뒤 d | 
+| 열 삭제 | Alt + e 누른 뒤 e | Ctrl + Option + e 누른 뒤 e |
 {:.mbtablestyle}
 
 <br/>
