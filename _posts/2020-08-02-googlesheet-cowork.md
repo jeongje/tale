@@ -79,6 +79,7 @@ author: "JJ"
 <img src="https://i.imgur.com/U8hgaT4.png" style="max-height: 400px; width:auto;">
 
 <br/>
+<br/>
 
 **같이 읽으면 좋은 글**
 
