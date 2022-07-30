@@ -82,3 +82,7 @@ _1타 강사가 됐다._
 **같이 읽으면 좋은 글**
 
 [비개발자가 사내 휴가 앱을 만들어봤습니다](https://jeongje.github.io/2021-09-04/story-leaveapp){:target="_blank"}
+
+[단순 반복 업무를 없애보기로 했다. (feat. Zapier)](https://jeongje.github.io/2022-07-30/story-automation-zapier){:target="_blank"}
+
+[제1회 레몬베이스 해커톤 진행 후기](https://jeongje.github.io/2021-12-22/story-2021hackathon){:target="_blank"}

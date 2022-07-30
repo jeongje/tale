@@ -111,3 +111,5 @@ _해커톤으로 탄생한 피드백 기능_
 [비개발자가 사내 휴가 앱을 만들어봤습니다](https://jeongje.github.io/2021-09-04/story-leaveapp){:target="_blank"}
 
 [비개발자가 사내 SQL스터디를 진행해봤습니다](https://jeongje.github.io/2021-10-24/story-sqlstudy){:target="_blank"}
+
+[단순 반복 업무를 없애보기로 했다. (feat. Zapier)](https://jeongje.github.io/2022-07-30/story-automation-zapier){:target="_blank"}
